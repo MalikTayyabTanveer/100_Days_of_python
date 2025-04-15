@@ -1,3 +1,5 @@
+# A simple game that you can play with the computer.
+
 import random 
 
 game  = ["Rock", "Paper", "scissor"]

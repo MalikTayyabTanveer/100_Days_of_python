@@ -1,3 +1,5 @@
+#this generate the random friend name who has to pay the entire meal payment
+
 import random 
 
 friends =  ["bawa","Tayyab","Umair","Obaid","Qudoos"]
